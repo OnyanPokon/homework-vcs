@@ -81,5 +81,10 @@ body {
     max-height: 60vh;
     overflow-y: auto;
   }
+
+  pre{
+    height: 100%;
+    font-family: monospace;
+  }
   
   
